@@ -1,1 +1,5 @@
-# noted
+- Azure DevOps
+- BitBucket Repos
+    - Business Systems
+- Confluence
+    - Business Systems
